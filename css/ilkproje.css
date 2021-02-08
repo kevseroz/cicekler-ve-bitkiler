@@ -1,0 +1,33 @@
+.navbar {
+    background-color:  #d7a7ef
+}
+
+#dugme {
+    background-color: rgb(237, 167, 239);
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+#head {
+background: url("çiçek.jpg");
+background-size: cover;
+background-position: center; 
+}
+
+.sınıf {
+    color: pink;
+}
+
+#drop {
+    background-color: #d7a7ef;
+    border: 1px solid #d7a7ef;
+    outline: none;
+    color: white;
+}
+
+#foto {
+    height: 100px;
+    float: right;
+}
